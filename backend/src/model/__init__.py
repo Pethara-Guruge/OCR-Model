@@ -1,0 +1,1 @@
+from .handwriting_model import HandwritingRecognitionModel
